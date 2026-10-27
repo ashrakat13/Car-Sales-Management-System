@@ -74,6 +74,6 @@ This system contains built-in Access queries for quick reporting:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Car-Sales-Management-System.git
+   git clone https://github.com/ashrakat13/Car-Sales-Management-System.git
    ```
 2. Open the `.accdb` file inside the `database/` directory using **Microsoft Access 2016** or newer.
