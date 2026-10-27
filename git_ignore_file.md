@@ -1,0 +1,12 @@
+# MS Access temporary / lock files
+*.laccdb
+*.ldb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*.accdb
+~$*.mdb
