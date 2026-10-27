@@ -70,7 +70,7 @@ This system contains built-in Access queries for quick reporting:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
