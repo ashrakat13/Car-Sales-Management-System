@@ -1,15 +1,15 @@
-# 🚗 Car Sales & Gallery Management System (MS Access)
+# Car Sales & Gallery Management System (MS Access)
 
 A comprehensive **Microsoft Access** relational database system designed to manage car dealership operations, sales tracking, customer records, and inventory analytics.
 
 ---
 
-## 📌 Overview
+##  Overview
 This database project simplifies dealership management by organizing key business entities—including inventory (Cars), buyers (Customers), deals (Sales), and staff (Salesmen). It also features predefined Access Queries for generating business reports and insights.
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 The database consists of the following primary tables and relationships:
 
@@ -47,7 +47,7 @@ The database consists of the following primary tables and relationships:
 
 ---
 
-## 🔍 Pre-configured Queries
+##  Pre-configured Queries
 
 This system contains built-in Access queries for quick reporting:
 
@@ -58,7 +58,7 @@ This system contains built-in Access queries for quick reporting:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 .
